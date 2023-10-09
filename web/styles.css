@@ -1,3 +1,7 @@
-boxes {
+*git  {
   box-sizing: border-box;
+}
+
+header {
+  background-color: aquamarine;
 }
