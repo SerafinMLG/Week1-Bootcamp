@@ -1,3 +1,6 @@
 # Week1
 AQUI PONEMOS LA PRESENTACION DE NUESTRO PROYECTO
 Admite enlaces, dibujos...
+
+- Git / GitHUB
+- HTML / CSS
